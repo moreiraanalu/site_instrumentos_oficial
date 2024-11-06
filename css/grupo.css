@@ -1,0 +1,110 @@
+
+
+body {
+    background-color: #fff7f0;
+}
+
+header {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: italic;
+    
+    background-color: rgb(100, 71, 43);
+    border: solid black 1px;
+    display: flex;
+    margin: -0.7%;
+    justify-content: center;
+    padding: 10px;
+    text-align: center;
+ 
+}
+
+.logo>img {
+    width: 80px;
+    height: 80px;
+    margin-left: 10px;
+}
+ 
+ul {
+    display: flex;
+    gap: 20px;
+}
+ 
+ul li {
+    list-style-type: none;
+   
+}
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+ 
+a:hover{
+    color: rgb(0, 0, 0);
+    transition: 0.3s all;
+}
+ 
+li{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+h1 {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    background-color: rgb(100, 71, 43);
+    color: white;
+}
+
+p {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: italic;
+    margin-top: 35px;
+    text-align: center;
+    text-align: center;
+}
+
+h3 {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: italic;
+    margin-top: 35px;
+    text-align: center;
+}
+
+h2{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+.class {
+    background-color: rgb(100, 71, 43);
+    color: white;
+}
+
+.fm{
+    text-align: center;
+    max-width: 1000px;
+}
+
+.back {
+    background-color: rgb(151, 123, 96);
+    color: white;
+}
+
+.font {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+}
